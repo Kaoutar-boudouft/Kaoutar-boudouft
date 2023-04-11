@@ -1,5 +1,6 @@
 <h1 align="center">Hello World 👋, I'm Kaoutar Boudouft</h1>
 <h3 align="center">21 years old and I am a Junior software developer. I am passionate about programming, problem solving, and everything related to new Technologies....</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaoutar-boudouft&label=Profile%20views&color=0e75b6&style=flat" alt="kaoutar-boudouft" /> </p>
 <p align="left"> <img width="100%" height="300" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" alt="kaoutar-boudouft" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaoutar-boudouft" alt="kaoutar-boudouft" /></a> </p>
