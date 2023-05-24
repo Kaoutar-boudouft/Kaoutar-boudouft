@@ -49,13 +49,11 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
  </p>
  
- <p>
-<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kaoutar-boudouft&layout=compact&langs_count=16&theme=dracula"/>
+ <p style="width:100%">
+<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kaoutar-boudouft&layout=compact&langs_count=16"/>
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaoutar-boudouft&show_icons=true&locale=en&layout=compact" alt="kaoutar-boudouft" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaoutar-boudouft&show_icons=true&locale=en" alt="kaoutar-boudouft" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaoutar-boudouft&" alt="kaoutar-boudouft" /></p>
+
