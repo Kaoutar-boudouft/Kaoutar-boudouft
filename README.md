@@ -50,9 +50,9 @@
  </p>
  
  <p style="width:100%">
-<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kaoutar-boudouft&layout=compact&langs_count=16"/>
-
+ <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kaoutar-boudouft&line_height=40&hide=css"/> </a>
 </p>
+
 
 
 
