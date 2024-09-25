@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **kaoutarboudouft2@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/1z93vpx4Q0v8nUYHnA1-HcU6vQuZXSySY/view](https://drive.google.com/file/d/1z93vpx4Q0v8nUYHnA1-HcU6vQuZXSySY/view)
+- 📄 My Resume [[https://drive.google.com/file/d/1z93vpx4Q0v8nUYHnA1-HcU6vQuZXSySY/view](https://drive.google.com/file/d/1z93vpx4Q0v8nUYHnA1-HcU6vQuZXSySY/view)](https://drive.google.com/file/d/1YIsfsTtSCCmDlqnlG9IgiU9xGJGRgeha/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
