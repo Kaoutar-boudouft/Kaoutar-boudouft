@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaoutar-boudouft" alt="kaoutar-boudouft" /></a> </p>
 
-- 🔭 I’m currently preparing my Professional bachelor degree on [Softwares & Web Technologies](https://enstetouan.ma/filiere/243/)
+- 🔭 I have a bachelor degree in [Softwares & Web Technologies](https://enstetouan.ma/filiere/243/)
 
 - 🌱 I’m currently learning **New concepts & Technologies**
 
